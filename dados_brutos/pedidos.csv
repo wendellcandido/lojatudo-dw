@@ -1,0 +1,611 @@
+﻿id_pedido;id_cliente;data_pedido;status_pedido;canal_venda
+1;1;2025/01/11;concluido ;Loja física
+2;2;08-01-2025; CONCLUIDO ;Loja física
+3;3;03/01/2025;concluido ;WhatsApp
+4;4;2025-01-23;CONCLUÍDO;Site
+5;5;2025-01-22;Concluido;Loja física
+6;6;2025/01/16;Concluido;Aplicativo
+7;7;20-01-2025; CONCLUIDO ;Loja física
+8;8;31/01/2025;concluido ;Aplicativo
+9;9;2025-01-19;Concluido;Site
+10;10;2025-01-13;concluido ;Site
+11;11;2025/01/06;Concluido;WhatsApp
+12;12;18-01-2025;concluido ;Site
+13;13;26/01/2025;concluido ;WhatsApp
+14;14;2025-01-17;CONCLUÍDO;Site
+15;15;2025-02-06;Concluido;Aplicativo
+16;16;2025/02/13; CONCLUIDO ;WhatsApp
+17;17;16-02-2025;CONCLUÍDO;WHATSAPP
+18;18;08/02/2025; CONCLUIDO ;Site
+19;19;2025-02-07;concluido ; Loja física 
+20;20;2025-02-09;concluido ;Loja física
+21;21;2025/02/03;CONCLUÍDO;Aplicativo
+22;22;09-02-2025; CONCLUIDO ;Site
+23;23;01/02/2025;concluido ;WhatsApp
+24;24;2025-02-02;Concluido;Site
+25;25;2025-02-05; CONCLUIDO ;Aplicativo
+26;26;2025/02/02;concluido ;Aplicativo
+27;27;26-02-2025;Concluido;Site
+28;28;12/02/2025;CONCLUÍDO;Aplicativo
+29;29;2025-02-24;concluido ;Site
+30;30;2025-03-20; CONCLUIDO ;Loja física
+31;31;2025/03/22;Concluido;Site
+32;32;12-03-2025; CONCLUIDO ;Site
+33;33;24/03/2025; CONCLUIDO ;Loja física
+34;34;2025-03-07;CONCLUÍDO;WHATSAPP
+35;35;2025-03-07;concluido ;WhatsApp
+36;36;2025/03/17;concluido ;WhatsApp
+37;37;21-03-2025;concluido ;Aplicativo
+38;38;27/03/2025; CONCLUIDO ; WhatsApp 
+39;39;2025-03-29;CONCLUÍDO;WhatsApp
+40;40;2025-03-28; CONCLUIDO ;Loja física
+41;41;2025/03/10;Concluido;Aplicativo
+42;42;08-03-2025; CONCLUIDO ;WhatsApp
+43;43;07/03/2025;Concluido;Aplicativo
+44;44;2025-03-16;Concluido;Loja física
+45;45;2025-03-16; CONCLUIDO ;Site
+46;46;2025/04/06;Concluido;Site
+47;47;21-04-2025;concluido ;Loja física
+48;48;25/04/2025;CONCLUÍDO;Aplicativo
+49;49;2025-04-13;CONCLUÍDO;Site
+50;50;2025-04-06;concluido ;Aplicativo
+51;51;2025/04/25; CONCLUIDO ;APLICATIVO
+52;52;11-04-2025;Concluido;Aplicativo
+53;53;12/04/2025;concluido ;Aplicativo
+54;54;2025-04-02;CONCLUÍDO;Site
+55;55;2025-04-01; CONCLUIDO ;Site
+56;56;2025/04/22;concluido ;WhatsApp
+57;57;28-04-2025; CONCLUIDO ; Loja física 
+58;58;05/04/2025;concluido ;Aplicativo
+59;59;2025-04-28; CONCLUIDO ;Site
+60;60;2025-04-08;Concluido;Site
+61;61;2025/04/12;Concluido;Loja física
+62;62;13-04-2025; CONCLUIDO ;WhatsApp
+63;63;31/05/2025;CONCLUÍDO;Site
+64;64;2025-05-16;concluido ;Loja física
+65;65;2025-05-11;concluido ;Loja física
+66;66;2025/05/25;concluido ;Loja física
+67;67;16-05-2025;CONCLUÍDO;Site
+68;68;13/05/2025;Concluido;APLICATIVO
+69;69;2025-05-08; CONCLUIDO ;Aplicativo
+70;70;2025-05-09; CONCLUIDO ;Site
+71;71;2025/05/13; CONCLUIDO ;WhatsApp
+72;72;14-05-2025; CONCLUIDO ;WhatsApp
+73;70;01/05/2025;CONCLUÍDO;Site
+74;8;2025-05-18;CONCLUÍDO;Aplicativo
+75;64;2025-05-03;CONCLUÍDO;Loja física
+76;18;2025/05/22; CONCLUIDO ; Loja física 
+77;57;07-05-2025; CONCLUIDO ;Site
+78;49;05/05/2025; CONCLUIDO ;WhatsApp
+79;6;2025-05-02;concluido ;Aplicativo
+80;2;2025-05-01; CONCLUIDO ;Site
+81;71;2025/06/25;CONCLUÍDO;Site
+82;42;25-06-2025;CONCLUÍDO;WhatsApp
+83;31;21/06/2025;Concluido;Loja física
+84;10;2025-06-17;concluido ;Aplicativo
+85;51;2025-06-29;concluido ;SITE
+86;29;2025/06/23;CONCLUÍDO;Loja física
+87;53;14-06-2025; pendente ;Aplicativo
+88;46;29/06/2025;concluido ;Site
+89;62;2025-06-30;concluido ;Site
+90;65;2025-06-06;Concluido;WhatsApp
+91;9;2025/06/13;CONCLUÍDO;Aplicativo
+92;48;14-06-2025;concluido ;Site
+93;50;04/06/2025;Concluido;WhatsApp
+94;43;2025-06-12;Concluido;Site
+95;66;2025-06-23;CONCLUÍDO; Aplicativo 
+96;70;2025/06/12;CANCELADO;WhatsApp
+97;61;26-06-2025;concluido ;WhatsApp
+98;16;01/06/2025;concluido ;WhatsApp
+99;70;2025-06-17;Concluido;Site
+100;59;2025-07-01; CONCLUIDO ;Aplicativo
+101;58;2025/07/29;Concluido;Loja física
+102;72;16-07-2025;CONCLUÍDO;LOJA FÍSICA
+103;67;01/07/2025;Concluido;Site
+104;64;2025-07-03;concluido ;Site
+105;17;2025-07-26; CONCLUIDO ;Loja física
+106;46;2025/07/12;CONCLUÍDO;Loja física
+107;60;23-07-2025; CONCLUIDO ;Loja física
+108;12;20/07/2025;CONCLUÍDO;Aplicativo
+109;40;2025-07-09;concluido ;Loja física
+110;57;2025-07-22;Concluido;WhatsApp
+111;8;2025/07/22; CONCLUIDO ;WhatsApp
+112;42;28-07-2025;Concluido;Loja física
+113;61;14/07/2025;CONCLUÍDO;Site
+114;3;2025-07-21;concluido ; Aplicativo 
+115;55;2025-07-06;concluido ;Loja física
+116;60;2025/07/30;CONCLUÍDO;Site
+117;47;11-07-2025;Concluido;WhatsApp
+118;57;09/07/2025;concluido ;WhatsApp
+119;17;2025-07-21;CONCLUÍDO;SITE
+120;42;2025-07-05; CONCLUIDO ;WhatsApp
+121;33;2025/08/05;Concluido;Site
+122;12;06-08-2025;CANCELADO;Loja física
+123;72;21/08/2025;concluido ;Loja física
+124;11;2025-08-13;Concluido;Aplicativo
+125;13;2025-08-02;CONCLUÍDO;Loja física
+126;44;2025/08/09; CONCLUIDO ;Aplicativo
+127;61;31-08-2025;Concluido;Aplicativo
+128;51;27/08/2025;CONCLUÍDO;Aplicativo
+129;57;2025-08-23; CONCLUIDO ;Site
+130;63;2025-08-11; CONCLUIDO ;Loja física
+131;65;2025/08/26;Concluido;Aplicativo
+132;22;07-08-2025;Cancelado;Site
+133;1;12/08/2025;concluido ; Site 
+134;40;2025-08-25;CONCLUÍDO;WhatsApp
+135;4;2025-08-09; CONCLUIDO ;WhatsApp
+136;54;2025/08/01; CONCLUIDO ;LOJA FÍSICA
+137;3;29-08-2025;concluido ;Loja física
+138;34;05/08/2025;CONCLUÍDO;Aplicativo
+139;14;2025-08-19; CONCLUIDO ;WhatsApp
+140;61;2025-08-11;concluido ;WhatsApp
+141;61;2025/08/27;Concluido;WhatsApp
+142;15;25-08-2025;CANCELADO;Aplicativo
+143;6;14/09/2025;CONCLUÍDO;Loja física
+144;1;2025-09-03; pendente ;Aplicativo
+145;70;2025-09-18;Concluido;Site
+146;47;2025/09/05;CANCELADO;Site
+147;45;08-09-2025;CONCLUÍDO;Loja física
+148;50;02/09/2025; CONCLUIDO ;Site
+149;40;2025-09-08;CONCLUÍDO;WhatsApp
+150;62;2025-09-15;Concluido;Site
+151;57;2025/09/16;Cancelado;WhatsApp
+152;39;18-09-2025;concluido ; Loja física 
+153;58;17/09/2025;CONCLUÍDO;APLICATIVO
+154;36;2025-09-24;concluido ;Site
+155;23;2025-09-05;CONCLUÍDO;Site
+156;68;2025/09/04; CONCLUIDO ;Site
+157;56;29-09-2025; cancelado ;Aplicativo
+158;54;26/09/2025;concluido ;WhatsApp
+159;51;2025-09-25;Concluido;Aplicativo
+160;32;2025-09-16;concluido ;Site
+161;71;2025/09/09; CONCLUIDO ;WhatsApp
+162;1;10-09-2025;CONCLUÍDO;Aplicativo
+163;37;17/09/2025;CONCLUÍDO;Loja física
+164;61;2025-09-05;Concluido;Site
+165;65;2025-09-14;Concluido;WhatsApp
+166;41;2025/10/09;Concluido;Loja física
+167;55;10-10-2025;CONCLUÍDO;Site
+168;23;05/10/2025;concluido ;WhatsApp
+169;49;2025-10-19;Concluido;Aplicativo
+170;11;2025-10-04;Concluido;SITE
+171;25;2025/10/20;CONCLUÍDO; Site 
+172;50;09-10-2025;Concluido;Loja física
+173;8;04/10/2025; CONCLUIDO ;WhatsApp
+174;68;2025-10-20;CONCLUÍDO;WhatsApp
+175;1;2025-10-06;concluido ;Site
+176;55;2025/10/29;Concluido;Aplicativo
+177;19;25-10-2025; CONCLUIDO ;Loja física
+178;29;06/10/2025;CONCLUÍDO;Aplicativo
+179;57;2025-10-19; cancelado ;Loja física
+180;9;2025-10-08; CONCLUIDO ;Loja física
+181;65;2025/10/05; CONCLUIDO ;WhatsApp
+182;25;07-10-2025;Concluido;Aplicativo
+183;42;13/10/2025; CONCLUIDO ;Aplicativo
+184;72;2025-10-22;CONCLUÍDO;Site
+185;54;2025-10-14; CONCLUIDO ;Site
+186;53;2025/10/05;concluido ;Site
+187;17;24-10-2025; cancelado ;LOJA FÍSICA
+188;35;25/10/2025;CONCLUÍDO;Aplicativo
+189;40;2025-10-26;concluido ;Aplicativo
+190;16;2025-11-27;CONCLUÍDO; Loja física 
+191;56;2025/11/10;concluido ;Site
+192;69;03-11-2025;Concluido;Aplicativo
+193;42;26/11/2025; CONCLUIDO ;Aplicativo
+194;32;2025-11-16;Concluido;Loja física
+195;37;2025-11-17; CONCLUIDO ;Site
+196;52;2025/11/04; CONCLUIDO ;Site
+197;20;28-11-2025;CONCLUÍDO;Loja física
+198;2;15/11/2025;Concluido;Aplicativo
+199;30;2025-11-22;CONCLUÍDO;Site
+200;2;2025-11-24;Concluido;Loja física
+201;30;2025/11/01;concluido ;Loja física
+202;53;13-11-2025; CONCLUIDO ;Site
+203;5;24/11/2025;Concluido;WhatsApp
+204;66;2025-11-25;Cancelado;SITE
+205;5;2025-11-09; CONCLUIDO ;Loja física
+206;24;2025/11/22;CONCLUÍDO;Site
+207;14;08-11-2025;concluido ;Site
+208;3;06/11/2025;Concluido;Site
+209;49;2025-11-24;concluido ; WhatsApp 
+210;35;2025-11-20;CANCELADO;Loja física
+211;54;2025/11/25;Concluido;Site
+212;12;13-11-2025;CONCLUÍDO;Site
+213;54;27/11/2025;concluido ;WhatsApp
+214;20;2025-11-05;concluido ;WhatsApp
+215;53;2025-12-18;Concluido;Aplicativo
+216;31;2025/12/05; CONCLUIDO ;Aplicativo
+217;45;19-12-2025;Concluido;WhatsApp
+218;19;03/12/2025;PENDENTE;Aplicativo
+219;60;2025-12-30;CONCLUÍDO;Loja física
+220;21;2025-12-24;Concluido;Site
+221;43;2025/12/09;Concluido;SITE
+222;47;14-12-2025; CONCLUIDO ;Loja física
+223;43;17/12/2025; CONCLUIDO ;Site
+224;1;2025-12-26;CONCLUÍDO;Site
+225;41;2025-12-18; CONCLUIDO ;WhatsApp
+226;66;2025/12/15; CONCLUIDO ;Site
+227;21;03-12-2025;Concluido;WhatsApp
+228;50;11/12/2025;concluido ; Loja física 
+229;53;2025-12-01;concluido ;Aplicativo
+230;46;2025-12-09; CONCLUIDO ;WhatsApp
+231;17;2025/12/19;CONCLUÍDO;WhatsApp
+232;40;09-12-2025;concluido ;Site
+233;54;16/12/2025; CONCLUIDO ;Site
+234;36;2025-12-07; CONCLUIDO ;Loja física
+235;39;2025-12-22;CANCELADO;Site
+236;7;2025/12/28; CONCLUIDO ;Site
+237;39;11-12-2025;Concluido;WhatsApp
+238;23;08/12/2025;concluido ;LOJA FÍSICA
+239;18;2025-12-30; CONCLUIDO ;Loja física
+240;26;2025-12-27;Concluido;WhatsApp
+241;33;2026/01/16;concluido ;WhatsApp
+242;68;14-01-2026;concluido ;Site
+243;7;24/01/2026;CONCLUÍDO;Aplicativo
+244;17;2026-01-22;Concluido;Site
+245;63;2026-01-22; CONCLUIDO ;Loja física
+246;30;2026/01/30;Concluido;Site
+247;43;31-01-2026;CONCLUÍDO; Aplicativo 
+248;34;25/01/2026;CONCLUÍDO;Site
+249;6;2026-01-13;concluido ;Site
+250;4;2026-01-10;CONCLUÍDO;Loja física
+251;22;2026/01/09;Concluido;Site
+252;69;03-01-2026; CONCLUIDO ;Site
+253;44;10/01/2026;concluido ;WhatsApp
+254;69;2026-01-31;concluido ;Aplicativo
+255;19;2026-01-18;CONCLUÍDO;WHATSAPP
+256;66;2026/01/14;CONCLUÍDO;Aplicativo
+257;24;07-01-2026;CONCLUÍDO;Site
+258;57;10/01/2026;Concluido;Site
+259;58;2026-01-27;CONCLUÍDO;Aplicativo
+260;29;2026-01-20;concluido ;WhatsApp
+261;8;2026/01/20;concluido ;WhatsApp
+262;19;09-01-2026; CONCLUIDO ;WhatsApp
+263;21;30/01/2026;CONCLUÍDO;Aplicativo
+264;10;2026-01-23;concluido ;Aplicativo
+265;51;2026-01-29; CONCLUIDO ;Aplicativo
+266;28;2026/01/27;concluido ; Site 
+267;69;10-01-2026;CONCLUÍDO;WhatsApp
+268;29;22/01/2026; CONCLUIDO ;Loja física
+269;36;2026-02-28;CONCLUÍDO;Site
+270;22;2026-02-27;concluido ;Site
+271;14;2026/02/28;Concluido;WhatsApp
+272;28;15-02-2026;CONCLUÍDO;LOJA FÍSICA
+273;40;16/02/2026;CONCLUÍDO;WhatsApp
+274;43;2026-02-22;concluido ;Site
+275;44;2026-02-05; CONCLUIDO ;Aplicativo
+276;57;2026/02/06;Concluido;Site
+277;46;05-02-2026;Concluido;Loja física
+278;52;17/02/2026;CONCLUÍDO;Aplicativo
+279;34;2026-02-05;CONCLUÍDO;WhatsApp
+280;4;2026-02-23;Concluido;Aplicativo
+281;35;2026/02/25;CONCLUÍDO;WhatsApp
+282;68;18-02-2026; CONCLUIDO ;Site
+283;1;01/02/2026;Concluido;WhatsApp
+284;27;2026-02-20; CONCLUIDO ;Site
+285;64;2026-02-07;concluido ; Site 
+286;44;2026/02/08;concluido ;Aplicativo
+287;10;28-02-2026;concluido ;Aplicativo
+288;31;08/02/2026;Concluido;Aplicativo
+289;28;2026-02-18;concluido ;WHATSAPP
+290;47;2026-02-17;Concluido;Aplicativo
+291;17;2026/02/26;Cancelado;Aplicativo
+292;70;13-02-2026;Concluido;WhatsApp
+293;67;17/02/2026;CONCLUÍDO;Loja física
+294;45;2026-02-16;concluido ;Aplicativo
+295;17;2026-02-04;concluido ;Site
+296;13;2026/02/06;concluido ;Site
+297;63;16-02-2026;concluido ;Loja física
+298;7;11/02/2026;concluido ;Site
+299;9;2026-03-04;CANCELADO;Aplicativo
+300;43;2026-03-17;concluido ;Site
+301;61;2026/03/19;CONCLUÍDO;Site
+302;21;14-03-2026;Concluido;Site
+303;68;26/03/2026;concluido ;Aplicativo
+304;7;2026-03-14;Concluido; Site 
+305;19;2026-03-20; CONCLUIDO ;Site
+306;57;2026/03/05;concluido ;SITE
+307;32;24-03-2026;concluido ;Site
+308;46;25/03/2026;CONCLUÍDO;Site
+309;53;2026-03-06;CONCLUÍDO;Loja física
+310;27;2026-03-27;concluido ;WhatsApp
+311;62;2026/03/14;concluido ;Aplicativo
+312;50;17-03-2026; cancelado ;Aplicativo
+313;33;21/03/2026;CONCLUÍDO;Site
+314;52;2026-03-20;CONCLUÍDO;Site
+315;28;2026-03-23;CONCLUÍDO;Site
+316;22;2026/03/30; pendente ;WhatsApp
+317;43;05-03-2026;Concluido;WhatsApp
+318;20;16/03/2026;CONCLUÍDO;Site
+319;34;2026-03-02;Concluido;Aplicativo
+320;1;2026-03-01;concluido ;WhatsApp
+321;49;2026/03/31; CONCLUIDO ;Site
+322;25;22-03-2026;concluido ;Site
+323;5;06/03/2026; CONCLUIDO ; WHATSAPP 
+324;55;2026-03-31;Concluido;Loja física
+325;13;2026-03-13;concluido ;WhatsApp
+326;39;2026/03/25; CONCLUIDO ;Site
+327;19;24-03-2026;Concluido;Site
+328;50;15/03/2026;Concluido;Aplicativo
+329;44;2026-03-02;Concluido;WhatsApp
+330;10;2026-03-09;concluido ;Site
+331;3;2026/04/14;Cancelado;Loja física
+332;7;09-04-2026;concluido ;Aplicativo
+333;65;25/04/2026;concluido ;Aplicativo
+334;63;2026-04-25;CONCLUÍDO;Loja física
+335;21;2026-04-30; CONCLUIDO ;Site
+336;8;2026/04/27;Concluido;Aplicativo
+337;71;06-04-2026;Concluido;Site
+338;10;26/04/2026;concluido ;Aplicativo
+339;54;2026-04-20; CONCLUIDO ;WhatsApp
+340;3;2026-04-13;concluido ;LOJA FÍSICA
+341;24;2026/04/08; CONCLUIDO ;Site
+342;44;06-04-2026;Concluido; Aplicativo 
+343;60;08/04/2026;CONCLUÍDO;WhatsApp
+344;11;2026-04-15;CONCLUÍDO;Site
+345;16;2026-04-29;CONCLUÍDO;WhatsApp
+346;64;2026/04/09; CONCLUIDO ;Aplicativo
+347;29;07-04-2026;CONCLUÍDO;Aplicativo
+348;34;09/04/2026; CONCLUIDO ;Aplicativo
+349;17;2026-04-30; CONCLUIDO ;Loja física
+350;48;2026-04-20;Concluido;WhatsApp
+351;61;2026/04/04;CONCLUÍDO;WhatsApp
+352;72;28-04-2026;CONCLUÍDO;Site
+353;36;08/04/2026;CONCLUÍDO;Site
+354;1;2026-04-18; CONCLUIDO ;Aplicativo
+355;8;2026-04-28;CONCLUÍDO;Aplicativo
+356;25;2026/04/02; CONCLUIDO ;Loja física
+357;40;11-04-2026;CONCLUÍDO;APLICATIVO
+358;50;22/04/2026;Cancelado;WhatsApp
+359;24;2026-04-07;Concluido;Loja física
+360;42;2026-04-05;concluido ;WhatsApp
+361;4;2026/04/01; CONCLUIDO ; Loja física 
+362;27;09-04-2026;CONCLUÍDO;Aplicativo
+363;12;21/04/2026;Concluido;Site
+364;49;2026-04-28;Concluido;Loja física
+365;10;2026-04-20;CONCLUÍDO;WhatsApp
+366;25;2026/04/25;concluido ;WhatsApp
+367;6;13-04-2026;Concluido;Site
+368;26;08/04/2026;CONCLUÍDO;WhatsApp
+369;66;2026-04-17; CONCLUIDO ;Site
+370;60;2026-05-28;CONCLUÍDO;WhatsApp
+371;5;2026/05/22;CONCLUÍDO;WhatsApp
+372;20;14-05-2026; CONCLUIDO ;Loja física
+373;41;30/05/2026;CONCLUÍDO;WhatsApp
+374;8;2026-05-16;CONCLUÍDO;APLICATIVO
+375;20;2026-05-17;CONCLUÍDO;WhatsApp
+376;28;2026/05/19;Concluido;Aplicativo
+377;23;28-05-2026; pendente ;Aplicativo
+378;10;08/05/2026;concluido ;WhatsApp
+379;16;2026-05-07; CONCLUIDO ;Aplicativo
+380;51;2026-05-31;Concluido; Aplicativo 
+381;60;2026/05/29;concluido ;Loja física
+382;35;15-05-2026;PENDENTE;Aplicativo
+383;40;12/05/2026;CONCLUÍDO;Site
+384;37;2026-05-27;concluido ;Aplicativo
+385;27;2026-05-12;concluido ;Aplicativo
+386;66;2026/05/07; CONCLUIDO ;Aplicativo
+387;3;05-05-2026;CONCLUÍDO;Aplicativo
+388;35;26/05/2026;concluido ;Aplicativo
+389;11;2026-05-31;Concluido;Aplicativo
+390;41;2026-05-11;concluido ;Loja física
+391;71;2026/05/27; CONCLUIDO ;WHATSAPP
+392;43;28-05-2026; cancelado ;Site
+393;15;22/05/2026;concluido ;Loja física
+394;5;2026-05-30;concluido ;WhatsApp
+395;37;2026-05-08;concluido ;WhatsApp
+396;53;2026/05/15;Concluido;Site
+397;47;24-05-2026;Concluido;Site
+398;50;14/05/2026;CONCLUÍDO;WhatsApp
+399;62;2026-05-01;CONCLUÍDO; WhatsApp 
+400;33;2026-05-25;CONCLUÍDO;WhatsApp
+401;13;2026/05/09;Concluido;Site
+402;13;23-05-2026; CONCLUIDO ;Loja física
+403;53;23/05/2026; CONCLUIDO ;Site
+404;16;2026-05-18;Cancelado;WhatsApp
+405;41;2026-05-03;Concluido;WhatsApp
+406;6;2026/05/10;concluido ;Loja física
+407;28;29-05-2026;CANCELADO;Aplicativo
+408;18;20/05/2026; CONCLUIDO ;WHATSAPP
+409;59;2026-05-08;CONCLUÍDO;Aplicativo
+410;20;2026-05-09;Concluido;Loja física
+411;57;2026/05/05; CONCLUIDO ;Loja física
+412;15;11-06-2026;concluido ;Site
+413;25;12/06/2026;concluido ;Aplicativo
+414;56;2026-06-28; CONCLUIDO ;Loja física
+415;41;2026-06-18;CANCELADO;Aplicativo
+416;67;2026/06/28; CONCLUIDO ;Site
+417;14;01-06-2026;CONCLUÍDO;Site
+418;14;02/06/2026; pendente ; Aplicativo 
+419;62;2026-06-07; CONCLUIDO ;Loja física
+420;67;2026-06-19;concluido ;Aplicativo
+421;26;2026/06/09;PENDENTE;WhatsApp
+422;29;23-06-2026;CONCLUÍDO;Site
+423;10;11/06/2026; cancelado ;Aplicativo
+424;59;2026-06-22;concluido ;WhatsApp
+425;27;2026-06-04;Concluido;LOJA FÍSICA
+426;21;2026/06/18;concluido ;Site
+427;24;21-06-2026;CONCLUÍDO;Site
+428;52;15/06/2026;CONCLUÍDO;Aplicativo
+429;37;2026-06-01;Concluido;WhatsApp
+430;3;2026-06-24; CONCLUIDO ;Aplicativo
+431;11;2026/06/05; cancelado ;Site
+432;30;22-06-2026;concluido ;Site
+433;11;03/06/2026;CONCLUÍDO;WhatsApp
+434;24;2026-06-27;concluido ;Site
+435;24;2026-06-21;Cancelado;Site
+436;60;2026/06/25;Pendente;WhatsApp
+437;65;19-06-2026; cancelado ; Aplicativo 
+438;18;29/06/2026; CONCLUIDO ;Site
+439;17;2026-06-01;CONCLUÍDO;Site
+440;56;2026-06-01;CONCLUÍDO;Aplicativo
+441;19;2026/06/25;concluido ;Aplicativo
+442;45;05-06-2026;concluido ;WHATSAPP
+443;51;13/06/2026; pendente ;WhatsApp
+444;15;2026-06-20; CONCLUIDO ;WhatsApp
+445;37;2026-06-04;concluido ;Site
+446;47;2026/06/13; CONCLUIDO ;Site
+447;41;21-06-2026;concluido ;Site
+448;71;18/06/2026;CONCLUÍDO;Aplicativo
+449;41;2026-06-21;CONCLUÍDO;Site
+450;45;2026-06-13;concluido ;Aplicativo
+451;21;2026/06/18;Concluido;WhatsApp
+452;58;24-06-2026;concluido ;Site
+453;4;05/06/2026; CONCLUIDO ;Site
+454;63;2026-06-28;concluido ;WhatsApp
+455;23;2026-06-11;CONCLUÍDO;Site
+456;53;2026/07/17;Concluido; Loja física 
+457;24;05-07-2026;CANCELADO;Loja física
+458;31;21/07/2026; CONCLUIDO ;Aplicativo
+459;15;2026-07-19;CANCELADO;SITE
+460;42;2026-07-06; cancelado ;WhatsApp
+461;43;2026/07/20;CONCLUÍDO;Aplicativo
+462;27;25-07-2026;concluido ;Aplicativo
+463;29;30/07/2026; CONCLUIDO ;Site
+464;3;2026-07-25;concluido ;Loja física
+465;23;2026-07-01;CONCLUÍDO;Aplicativo
+466;42;2026/07/30;Concluido;Site
+467;45;14-07-2026;Concluido;Loja física
+468;6;22/07/2026; CONCLUIDO ;Loja física
+469;19;2026-07-06; cancelado ;Loja física
+470;59;2026-07-26;Concluido;Loja física
+471;4;2026/07/29; CONCLUIDO ;Site
+472;28;23-07-2026;CONCLUÍDO;Site
+473;41;31/07/2026; CONCLUIDO ;Loja física
+474;55;2026-07-25; CONCLUIDO ;Aplicativo
+475;22;2026-07-02; CONCLUIDO ; WhatsApp 
+476;6;2026/07/21;concluido ;APLICATIVO
+477;40;29-07-2026; CONCLUIDO ;Site
+478;59;31/07/2026; CONCLUIDO ;Aplicativo
+479;8;2026-07-17;Cancelado;Aplicativo
+480;1;2026-07-01;Concluido;WhatsApp
+481;53;2026/07/19;CONCLUÍDO;Loja física
+482;69;22-07-2026;Cancelado;WhatsApp
+483;53;17/07/2026;CONCLUÍDO;Aplicativo
+484;62;2026-07-27;CANCELADO;Site
+485;56;2026-07-28; CONCLUIDO ;Loja física
+486;72;2026/07/27;Concluido;Aplicativo
+487;23;27-07-2026;Concluido;Loja física
+488;24;24/07/2026; CONCLUIDO ;Aplicativo
+489;23;2026-07-07;PENDENTE;WhatsApp
+490;19;2026-07-15; CONCLUIDO ;WhatsApp
+491;14;2026/07/15;Concluido;Aplicativo
+492;12;03-07-2026; CONCLUIDO ;WhatsApp
+493;5;04/07/2026; CONCLUIDO ;LOJA FÍSICA
+494;42;2026-07-30;Concluido; WhatsApp 
+495;10;2026-07-16;Concluido;Aplicativo
+496;40;2026/07/29;concluido ;WhatsApp
+497;25;04-07-2026; cancelado ;WhatsApp
+498;12;24/07/2026;Concluido;Site
+499;51;2026-07-06;CONCLUÍDO;Site
+500;70;2026-07-19;CONCLUÍDO;WhatsApp
+501;61;2026/07/20;Concluido;Site
+502;50;29-07-2026;concluido ;WhatsApp
+503;51;12/07/2026;CONCLUÍDO;WhatsApp
+504;61;2026-07-12;Concluido;Aplicativo
+505;55;2026-08-26;concluido ;Loja física
+506;27;2026/08/08; CONCLUIDO ;Aplicativo
+507;51;10-08-2026;concluido ;Site
+508;47;15/08/2026;Concluido;Loja física
+509;40;2026-08-08; CONCLUIDO ;Site
+510;31;2026-08-09;CONCLUÍDO;WHATSAPP
+511;25;2026/08/23;CONCLUÍDO;Loja física
+512;55;25-08-2026;Concluido;Loja física
+513;31;28/08/2026; CONCLUIDO ; WhatsApp 
+514;41;2026-08-18;Pendente;Aplicativo
+515;18;2026-08-14;Concluido;Loja física
+516;32;2026/08/11;Concluido;Site
+517;16;07-08-2026;Concluido;Site
+518;66;28/08/2026;concluido ;WhatsApp
+519;8;2026-08-20;concluido ;Site
+520;36;2026-08-27;CONCLUÍDO;WhatsApp
+521;4;2026/08/24;Concluido;Site
+522;53;19-08-2026;CONCLUÍDO;Loja física
+523;15;04/08/2026;concluido ;WhatsApp
+524;32;2026-08-07;CONCLUÍDO;WhatsApp
+525;42;2026-08-28;concluido ;WhatsApp
+526;10;2026/08/15;CONCLUÍDO;Aplicativo
+527;54;02-08-2026;CONCLUÍDO;APLICATIVO
+528;51;10/08/2026;CONCLUÍDO;Site
+529;18;2026-08-23;Concluido;Loja física
+530;26;2026-08-22; CONCLUIDO ;Site
+531;51;2026/08/08;CANCELADO;WhatsApp
+532;15;08-08-2026;CONCLUÍDO; Aplicativo 
+533;45;31/08/2026; CONCLUIDO ;Aplicativo
+534;22;2026-08-08; cancelado ;Aplicativo
+535;44;2026-08-29;concluido ;WhatsApp
+536;43;2026/08/16; CONCLUIDO ;WhatsApp
+537;27;15-08-2026;concluido ;Site
+538;66;26/08/2026;Concluido;Loja física
+539;32;2026-08-15;Concluido;Aplicativo
+540;27;2026-08-04;CONCLUÍDO;Aplicativo
+541;47;2026/08/23;Concluido;Site
+542;42;30-08-2026; CONCLUIDO ;WhatsApp
+543;46;31/08/2026;Concluido;Site
+544;71;2026-08-31;Concluido;WHATSAPP
+545;23;2026-08-03;CONCLUÍDO;Aplicativo
+546;59;2026/08/18;concluido ;Site
+547;25;28-08-2026;CONCLUÍDO;Site
+548;14;05/08/2026; CONCLUIDO ;WhatsApp
+549;26;2026-08-13;concluido ;WhatsApp
+550;55;2026-08-19;CONCLUÍDO;Aplicativo
+551;23;2026/08/08; CONCLUIDO ; Loja física 
+552;5;12-08-2026;Concluido;WhatsApp
+553;24;05/08/2026;concluido ;Aplicativo
+554;7;2026-08-29;CONCLUÍDO;Aplicativo
+555;39;2026-08-22;concluido ;Aplicativo
+556;57;2026/08/27;concluido ;Aplicativo
+557;70;04-09-2026;CONCLUÍDO;Loja física
+558;33;08/09/2026;concluido ;WhatsApp
+559;61;2026-09-28;Concluido;Loja física
+560;28;2026-09-01;concluido ;Aplicativo
+561;46;2026/09/26;Cancelado;APLICATIVO
+562;29;04-09-2026;CANCELADO;Site
+563;48;17/09/2026;CONCLUÍDO;Aplicativo
+564;9;2026-09-23;Concluido;WhatsApp
+565;41;2026-09-11;CONCLUÍDO;Site
+566;69;2026/09/28; CONCLUIDO ;Loja física
+567;13;16-09-2026;CONCLUÍDO;Aplicativo
+568;41;18/09/2026;Concluido;Site
+569;65;2026-09-19;concluido ;Loja física
+570;54;2026-09-30;Concluido; Loja física 
+571;28;2026/09/14; CONCLUIDO ;Loja física
+572;52;29-09-2026; CONCLUIDO ;Loja física
+573;41;04/09/2026;CONCLUÍDO;Site
+574;8;2026-09-23;CANCELADO;Aplicativo
+575;30;2026-09-11; CONCLUIDO ;Aplicativo
+576;20;2026/09/10;concluido ;Loja física
+577;54;04-09-2026;Concluido;Loja física
+578;43;19/09/2026;Concluido;SITE
+579;7;2026-09-22;concluido ;Loja física
+580;11;2026-09-03;concluido ;Aplicativo
+581;34;2026/09/11;CONCLUÍDO;Aplicativo
+582;71;23-09-2026;CONCLUÍDO;Loja física
+583;67;26/09/2026; cancelado ;Loja física
+584;4;2026-09-29;Concluido;Loja física
+585;57;2026-09-20; CONCLUIDO ;Aplicativo
+586;21;2026/09/01;Concluido;Loja física
+587;38;04-09-2026; CONCLUIDO ;WhatsApp
+588;37;27/09/2026;CONCLUÍDO;Aplicativo
+589;52;2026-09-25;CONCLUÍDO; Loja física 
+590;1;2026-09-04;CONCLUÍDO;Loja física
+591;4;2026/09/13;CONCLUÍDO;WhatsApp
+592;41;08-09-2026;Concluido;WhatsApp
+593;20;14/09/2026;Concluido;Aplicativo
+594;8;2026-09-21;Concluido;Aplicativo
+595;72;2026-09-16;CONCLUÍDO;SITE
+596;54;2026/09/09;CONCLUÍDO;Loja física
+597;1;02-09-2026;Concluido;Aplicativo
+598;3;12/09/2026; CONCLUIDO ;Loja física
+599;46;2026-09-21;concluido ;WhatsApp
+600;4;2026-09-23;Concluido;Aplicativo
+601;64;2026/09/13;CONCLUÍDO;Loja física
+602;39;23-09-2026;Concluido;Aplicativo
+603;28;20/09/2026; cancelado ;Loja física
+604;5;2026-09-11;CONCLUÍDO;Aplicativo
+605;24;2026-09-11;concluido ;Aplicativo
+606;58;2026/09/27;CANCELADO;Aplicativo
+607;8;22-09-2026;CONCLUÍDO;Aplicativo
+608;46;15/09/2026;Concluido; Site 
+609;38;2026-09-26;Concluido;Site
+610;31;2026-09-28;concluido ;Loja física

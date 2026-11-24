@@ -1,0 +1,41 @@
+﻿id_produto;nome_produto;categoria;preco_lista;ativo
+1;Smart TV LED 43 polegadas; eletrônicos ;2299.90;SIM
+2;Caixa de som Bluetooth;Eletronicos;239.90;SIM
+3;Fone de ouvido sem fio;ELETRÔNICOS;119.90;SIM
+4;Carregador USB-C 30W;Eletrônicos;49.90;SIM
+5;Relógio inteligente; eletrônicos ;359.90;SIM
+6;Cabo HDMI 2 metros;Eletronicos;29.90;SIM
+7;Webcam Full HD;Eletronicos;179.90;SIM
+8;Tablet 10 polegadas;ELETRÔNICOS;1199.90;SIM
+9;Mouse sem fio;Informática;74.90;sim
+10;Teclado mecânico; informática ;249.90;SIM
+11;Monitor 24 polegadas;Informatica;999.90;SIM
+12; SSD 480 GB ;INFORMÁTICA;289.90;SIM
+13;Pendrive 64 GB;Informática;49.90;SIM
+14;Notebook 15 polegadas;Informática;3499.90;SIM
+15;Roteador dual band; informática ;239.90;SIM
+16;Hub USB 4 portas;Informatica;89.90;SIM
+17;Cafeteira elétrica;CASA E COZINHA;189.90;SIM
+18;Mixer de cozinha;Casa e Cozinha;139.90;sim
+19;Fritadeira elétrica 4 L; casa e cozinha ;429.90;SIM
+20;Jogo de panelas 5 peças;Casa & Cozinha;399.90;SIM
+21;Liquidificador 2 L;Casa & Cozinha;249.90;SIM
+22;Aspirador portátil;CASA E COZINHA;259.90;SIM
+23;Sanduicheira antiaderente;Casa e Cozinha;129.90;SIM
+24; Garrafa térmica 1 L ; casa e cozinha ;109.90;SIM
+25;Caderno 10 matérias;Papelaria;29.90;SIM
+26;Kit de canetas;Papelaria;24.90;SIM
+27;Agenda anual;Papelaria;39.90;sim
+28;Resma papel A4;PAPELARIA;32.90;SIM
+29;Organizador de mesa;PAPELARIA;59.90;SIM
+30;Mochila escolar;PAPELARIA;149.90;SIM
+31;Mesa para escritório;MÓVEIS;649.90;SIM
+32;Cadeira ergonômica;MÓVEIS;999.90;SIM
+33;Estante multiuso;MÓVEIS;429.90;SIM
+34;Gaveteiro com rodinhas;MÓVEIS;329.90;SIM
+35;Suporte para notebook;Acessorios;99.90;SIM
+36; Mousepad gamer ;ACESSÓRIOS;54.90;sim
+37;Adaptador USB-C;Acessórios;69.90;SIM
+38;Capa para tablet; acessórios ;79.90;SIM
+39;Cabo de rede 3 metros;Acessorios;26.90;SIM
+40;Suporte para celular;ACESSÓRIOS;45.90;SIM

@@ -1,0 +1,97 @@
+﻿id_cliente;nome_cliente;email;cidade;estado;telefone;data_cadastro
+1;Alexandre Lima;cliente001@lojatudo.example;Goianira;GO;(62) 90000-0001;28/12/2024
+2;Amanda Ribeiro;cliente002@lojatudo.example;Anápolis;GO;(62) 90000-0002;04-12-2024
+3;Ana Beatriz Sousa;cliente003@lojatudo.example;Goiânia;GO;(62) 90000-0003;2024/07/06
+4;André Martins;cliente004@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0004;2024-12-25
+5;Beatriz Castro;cliente005@lojatudo.example;Anápolis;GO;(62) 90000-0005;15/07/2024
+6; Bruno Araújo ;cliente006@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0006;13-07-2024
+7;Camila Fernandes;cliente007@lojatudo.example;Trindade;GO;(62) 90000-0007;2024-08-16
+8;Carlos Eduardo Nunes;CLIENTE008@LOJATUDO.EXAMPLE;Trindade;GO;(62) 90000-0008;08/07/2024
+9;Carolina Alves;cliente009@lojatudo.example;Senador Canedo;GO;;07-11-2024
+10;Cecília Rocha;;Aparecida de Goiânia;GO;(62) 90000-0010;2024/11/21
+11;Daniel Moura;cliente011@lojatudo.example;Anápolis;go;(62) 90000-0011;2024-07-15
+12;Daniela Costa;cliente012@lojatudo.example;Goiânia;GO;(62) 90000-0012;27/08/2024
+13;Davi Oliveira;cliente013@lojatudo.example; ANÁPOLIS ;GO; (62) 90000-0013 ;12-08-2024
+14;Débora Souza;cliente014@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0014;2024-07-01
+15;Diego Batista;cliente015@lojatudo.example;Trindade;GO;(62) 90000-0015;
+16;Eduarda Monteiro;cliente016@lojatudo.example;Goiânia;GO;(62) 90000-0016;14-11-2024
+17;Eduardo Freitas;cliente017@lojatudo.example;aparecida de goiânia;GO;(62) 90000-0017;2024/08/22
+18;Eliane Barbosa;cliente018@lojatudo.example;Senador Canedo;GO;;2024-09-06
+19;Elisa Carvalho;cliente019@lojatudo.example;Goiânia;GO;(62) 90000-0019;21/10/2024
+20;Emerson Teixeira;cliente020@lojatudo.example;Rio Verde;GO;(62) 90000-0020;27-08-2024
+21; Estela Pereira ;cliente021@lojatudo.example;Anapolis;GO;(62) 90000-0021;2024-07-12
+22;Fabiana Santos;cliente022@lojatudo.example;Trindade;GO;(62) 90000-0022;04/12/2024
+23;Felipe Gomes;cliente023@lojatudo.example;Trindade;GO;(62) 90000-0023;26-08-2024
+24;Fernanda Melo;cliente024@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0024;2024/07/07
+25;Flávia Cardoso;cliente025@lojatudo.example;Goiânia;GO;(62) 90000-0025;2024-07-25
+26;Gabriel Dias;cliente026@lojatudo.example; ANÁPOLIS ;go; (62) 90000-0026 ;14/10/2024
+27;Gabriela Almeida;cliente027@lojatudo.example;Senador Canedo;GO;;14-07-2024
+28;Giovana Nascimento;cliente028@lojatudo.example;Anapolis;;(62) 90000-0028;2024-11-24
+29;Guilherme Ferreira;;Rio Verde;GO;(62) 90000-0029;16/12/2024
+30;Helena Pires; cliente030@lojatudo.example ;Aparecida de Goiânia;GO;(62) 90000-0030;28-11-2024
+31;Henrique Almeida;cliente031@lojatudo.example;Goiânia;GO;(62) 90000-0031;2024/08/16
+32;Hugo Ribeiro;cliente032@lojatudo.example;Trindade;GO;(62) 90000-0032;2024-11-01
+33;Igor Mendonça;cliente033@lojatudo.example;Anápolis;GO;(62) 90000-0033;13/10/2024
+34;Isabela Lima;cliente034@lojatudo.example;goiânia;GO;(62) 90000-0034;05-11-2024
+35;Isadora Martins;cliente035@lojatudo.example;Goiania;GO;(62) 90000-0035;2024-11-01
+36;Jéssica Pinheiro;cliente036@lojatudo.example;Goiânia;GO;;17/07/2024
+37;Joana Vieira;cliente037@lojatudo.example;Trindade;GO;(62) 90000-0037;02-08-2024
+38;João Pedro Silva;CLIENTE038@LOJATUDO.EXAMPLE;Trindade;GO;(62) 90000-0038;2024/10/24
+39;Jorge Lucas Reis;cliente039@lojatudo.example; GOIÂNIA ;GO; (62) 90000-0039 ;2024-12-06
+40;José Augusto Prado;cliente040@lojatudo.example;Goiânia;GO;(62) 90000-0040;30/11/2024
+41;Júlia Moura;cliente041@lojatudo.example;Aparecida de Goiânia;go;(62) 90000-0041;18-12-2024
+42;Juliana Campos;cliente042@lojatudo.example;Anapolis;GO;(62) 90000-0042;2024-11-03
+43;Karen Borges;cliente043@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0043;23/10/2024
+44;Larissa Dias;cliente044@lojatudo.example;Anápolis;GO;(62) 90000-0044;29-12-2024
+45; Laura Figueiredo ;cliente045@lojatudo.example;Rio Verde;GO;;2024/12/30
+46;Leandro Nogueira;cliente046@lojatudo.example;Trindade;GO;(62) 90000-0046;2024-09-18
+47;Letícia Barbosa;cliente047@lojatudo.example;;GO;(62) 90000-0047;21/09/2024
+48;Lívia Almeida;cliente048@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0048;07-12-2024
+49;Lucas Matos;cliente049@lojatudo.example;Rio Verde;GO;(62) 90000-0049;2024-08-28
+50;Luiza Costa;cliente050@lojatudo.example;Trindade;GO;(62) 90000-0050;10/10/2024
+51;Marcelo Fernandes;cliente051@lojatudo.example;aparecida de goiânia;GO;(62) 90000-0051;03-12-2024
+52;Márcia Ribeiro;cliente052@lojatudo.example; INHUMAS ;GO; (62) 90000-0052 ;2024/09/19
+53;Marcos Vinícius Lima;cliente053@lojatudo.example;Goiânia;GO;(62) 90000-0053;
+54;Maria Clara Gomes;cliente054@lojatudo.example;Aparecida de Goiania;GO;;12/09/2024
+55;Mariana Alves;cliente055@lojatudo.example;Senador Canedo;GO;(62) 90000-0055;01-12-2024
+56;Matheus Oliveira;cliente056@lojatudo.example;Goianira;GO;(62) 90000-0056;2024-12-23
+57;Melissa Tavares;cliente057@lojatudo.example;Goiânia;GO;(62) 90000-0057;20/11/2024
+58;Miguel Rodrigues;;Anápolis;GO;(62) 90000-0058;10-08-2024
+59;Mônica Santos;cliente059@lojatudo.example;Goiânia;;(62) 90000-0059;2024/10/06
+60;Murilo Andrade;cliente060@lojatudo.example;Anápolis;GO;(62) 90000-0060;2024-08-05
+61;Nádia Rocha;cliente061@lojatudo.example;Inhumas;GO;(62) 90000-0061;11/11/2024
+62;Natália Vieira;cliente062@lojatudo.example;Anápolis;GO;(62) 90000-0062;26-09-2024
+63;Nicolas Barbosa;cliente063@lojatudo.example;Aparecida de Goiania;GO;;2024-07-01
+64;Otávio Ferreira;cliente064@lojatudo.example;Goiânia;GO;(62) 90000-0064;19/07/2024
+65;Paola Castro;CLIENTE065@LOJATUDO.EXAMPLE; ANÁPOLIS ;GO; (62) 90000-0065 ;25-11-2024
+66;Patrícia Cardoso; cliente066@lojatudo.example ;Anápolis;GO;(62) 90000-0066;2024/12/21
+67;Paulo Henrique Teixeira;;Goiânia;GO;(62) 90000-0067;2024-10-09
+68; Pedro Augusto Souza ;cliente068@lojatudo.example;anápolis;GO;(62) 90000-0068;21/09/2024
+69;Priscila Moreira;cliente069@lojatudo.example;Goiânia;GO;(62) 90000-0069;23-10-2024
+70;Rafael Almeida;cliente070@lojatudo.example;Rio Verde;GO;(62) 90000-0070;2024-07-27
+71;Raíssa Pires;cliente071@lojatudo.example;Inhumas;GO;(62) 90000-0071;15/08/2024
+72;Raquel Rodrigues;cliente072@lojatudo.example;Goiânia;GO;;20-09-2024
+73;Renan Melo;cliente073@lojatudo.example;Rio Verde;GO;(62) 90000-0073;2026/05/10
+74;Renata Nunes;cliente074@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0074;2026-06-22
+75;Ricardo Ramos;cliente075@lojatudo.example;Goianira;go;(62) 90000-0075;27/01/2025
+76;Roberta Vieira;cliente076@lojatudo.example;Catalão;GO;(62) 90000-0076;23-09-2026
+77;Rodrigo Mendes;cliente077@lojatudo.example;Senador Canedo;GO;(62) 90000-0077;2025-08-31
+78;Sabrina Freitas;cliente078@lojatudo.example; SENADOR CANEDO ;GO; (62) 90000-0078 ;11/01/2025
+79;Samuel Santos;cliente079@lojatudo.example;Rio Verde;GO;(62) 90000-0079;14-08-2025
+80;Sara Martins;cliente080@lojatudo.example;Brasília;DF;(61) 90000-0080;2026/05/12
+81;Sérgio Monteiro;cliente081@lojatudo.example;Goiânia;GO;;2025-02-09
+82;Sofia Carvalho;cliente082@lojatudo.example;Senador Canedo;GO;(62) 90000-0082;21/02/2025
+83;Talita Oliveira;cliente083@lojatudo.example;Senador Canedo;GO;(62) 90000-0083;04-01-2026
+84;Tatiane Moura;cliente084@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0084;2025-02-11
+85; Thiago Nascimento ;cliente085@lojatudo.example;senador canedo;GO;(62) 90000-0085;16/12/2025
+86;Valéria Freitas;cliente086@lojatudo.example;Aparecida de Goiânia;GO;(62) 90000-0086;26-05-2026
+87;Vanessa Andrade;cliente087@lojatudo.example;Goiânia;GO;(62) 90000-0087;2025/09/10
+88;Victor Gabriel Costa;cliente088@lojatudo.example;Goiânia;GO;(62) 90000-0088;2026-04-02
+89;Vitória Lima;cliente089@lojatudo.example;Senador Canedo;GO;(62) 90000-0089;29/01/2026
+90;Wagner Ribeiro;cliente090@lojatudo.example;Goiânia;GO;;01-03-2025
+91;William Moreira;cliente091@lojatudo.example; RIO VERDE ;GO; (62) 90000-0091 ;2025-09-19
+92;Yasmin Souza;cliente092@lojatudo.example;Goiânia;GO;(62) 90000-0092;17/10/2025
+93;Yuri Rodrigues;cliente093@lojatudo.example;Senador Canedo;GO;(62) 90000-0093;21-07-2025
+94;Zuleica Almeida;cliente094@lojatudo.example;Trindade;GO;(62) 90000-0094;2025/09/10
+95;Adriana Paiva;cliente095@lojatudo.example;Anápolis;GO;(62) 90000-0095;2025-07-29
+96;Cristiano Neves;cliente096@lojatudo.example;Anápolis;GO;(62) 90000-0096;06/09/2025
